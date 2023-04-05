@@ -5,6 +5,6 @@ We propose to train a model to (1) recognize handwritten numbers and (2) recogni
 Our project aims to create a spoken-digit recognition model that is made more accurate through training from two modes. This functionality is useful in transcribing digits spoken into a transcription. This project would provide a base in learning how to train a multi-modal model and serves as a base to understand the foundations of more complex and complete speech recognition and speech to text models. 
 
 
-Datasets:
+Datasets: </br>
+http://yann.lecun.com/exdb/mnist/ </br>
 https://github.com/Jakobovski/free-spoken-digit-dataset
-http://yann.lecun.com/exdb/mnist/
