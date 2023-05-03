@@ -8,3 +8,7 @@ Our project aims to create a spoken-digit recognition model that is made more ac
 Datasets: </br>
 http://yann.lecun.com/exdb/mnist/ </br>
 https://github.com/Jakobovski/free-spoken-digit-dataset
+
+</br>
+Final Report: </br>
+https://docs.google.com/document/d/1IDuMCAmjbF02GumHePu26FL0CjDM3yzUVVI3jBrhr-M/edit#
